@@ -1,81 +1,81 @@
 # AZ-Crime Intelligence Lab
 
-### Research & Analysis Initiative
-
-**International methods. Azerbaijani context. Evidence-based analysis.**
-
----
-
 ## About
 
-AZ-Crime Intelligence Lab is an independent research initiative focused on studying criminal intelligence, crime analysis, organized crime, human trafficking, and criminal behaviour through internationally recognized analytical approaches and publicly available information.
+AZ-Crime Intelligence Lab is an independent research initiative exploring international criminal intelligence and crime analysis methodologies in the Azerbaijani context.
 
-The initiative explores how evidence-based crime-intelligence methodologies can be studied, evaluated, and adapted to the Azerbaijani context.
+The project focuses on understanding how evidence-based analytical approaches can be studied, documented, and responsibly adapted to local research.
 
 ## Mission
 
-Our mission is to develop research and analytical capabilities in criminal intelligence and explore practical, ethical, and evidence-based approaches to crime analysis.
+To develop practical knowledge and research capabilities in:
 
-## Research Areas
-
-- Criminal Intelligence Analysis
-- Crime Pattern & Trend Analysis
-- Organized Crime
-- Human Trafficking
-- Criminal Behaviour
-- Crime Data & Visualization
-- Risk & Threat Assessment
-- Open-Source Intelligence (OSINT)
-- Ethics, Privacy & Responsible Analysis
-
-## Methodology
-
-The project draws on publicly available information, academic research, international guidelines, and established analytical approaches.
-
-We aim to:
-
-1. Study international criminal-intelligence methodologies.
-2. Examine their relevance to the Azerbaijani context.
-3. Analyze publicly available and appropriately sourced data.
-4. Identify patterns, trends, and research gaps.
-5. Develop evidence-based analytical frameworks.
-6. Document limitations and ethical considerations.
-
-## Current Project
-
-### Project 01 — Azerbaijan Crime Intelligence Framework
-
-A methodological pilot exploring how international crime-intelligence and crime-analysis approaches could be adapted to the Azerbaijani context.
-
-**Status:** Research & Development
-
-## Ethics & Privacy
-
-This initiative does not seek access to confidential law-enforcement information or private personal data.
-
-Research will prioritize publicly available, lawful, and appropriately sourced information.
-
-No individual will be identified as a criminal based solely on analytical findings, and analytical conclusions will be presented with appropriate limitations.
-
-## Future Development
-
-Future stages may include:
-
-- Structured crime-data analysis
-- Data visualization
+- Criminal intelligence analysis
+- Crime pattern analysis
 - Geographic and temporal analysis
-- Risk-indicator research
-- Organized-crime research
-- Human-trafficking research
-- Research publications and analytical briefs
+- Open-source intelligence (OSINT)
+- Link analysis
+- Data-driven crime research
+- Analytical methodology and critical thinking
 
-## Founder
+## Current Research
 
-**Tahira Huseyn**
+### Project 01 — Crime Trends in Azerbaijan
 
-Independent Researcher  
-Focus: Criminal Intelligence, Crime Analysis & Criminal Behaviour
+**Research question:**
+
+How did recorded crime levels and population-adjusted crime rates in Azerbaijan change between 1993 and 2024?
+
+**Methods used:**
+
+- Temporal analysis
+- Rate analysis
+- Trend identification
+- Source evaluation
+
+**Data source:**
+
+State Statistical Committee of the Republic of Azerbaijan — *Offences in Azerbaijan*
+
+## Research Principles
+
+The project follows several core principles:
+
+- Evidence before assumptions
+- Verification before conclusions
+- Distinguishing correlation from causation
+- Using population-adjusted measures where appropriate
+- Documenting sources and methodology
+- Recognizing uncertainty and limitations
+
+## Ethics
+
+This project is intended for educational and research purposes.
+
+It does not attempt to identify private individuals, conduct surveillance, access restricted information, or make unsupported accusations.
+
+Publicly available information is treated carefully and evaluated according to source reliability and context.
+
+## Future Research
+
+Planned areas of research include:
+
+1. Crime-type analysis
+2. Regional crime patterns
+3. Temporal patterns and anomalies
+4. Victim and offender demographics
+5. Organized crime research
+6. Human trafficking and migrant smuggling
+7. Crimes against children
+8. Criminal intelligence methodologies
+9. OSINT research methodology
+
+## Project Status
+
+**Status:** Active research
+
+**Current stage:** Foundational data and analytical framework
 
 ---
 
-*This is an independent research initiative and is not affiliated with or officially representing INTERPOL, Europol, UNODC, or any government institution.*
+*International methods. Azerbaijani context. Evidence-based analysis.*
